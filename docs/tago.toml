@@ -1,0 +1,10 @@
+title       = "comicvine"
+baseURL     = "https://comicvine-cli.tamnd.com/"
+description = "Browse the ComicVine comic database"
+contentDir  = "content"
+outputDir   = "public"
+theme       = "tago-doks"
+syntaxHighlight = "true"
+
+[params]
+github = "https://github.com/tamnd/comicvine-cli"
